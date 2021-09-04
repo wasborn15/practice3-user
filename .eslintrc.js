@@ -8,6 +8,7 @@ module.exports = {
     'airbnb',
     'react-app', // 手動で追加
     'react-app/jest', // 手動で追加
+    'prettier', // 追加
   ],
   parserOptions: {
     ecmaFeatures: {
